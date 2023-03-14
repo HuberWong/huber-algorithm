@@ -7,6 +7,7 @@ class ListNode:
         self.val = val
         self.next = next
 
+
 # 输入：l1 = [1,2,4], l2 = [1,3,4]
 # 输出：[1,1,2,3,4,4]
 
@@ -24,9 +25,11 @@ class Solution:
         cur = list1 if list1 else list2
         return dummy.next
 
+
 if __name__ == '__main__':
     list1 = ListNode(val=1, next=ListNode(2, ListNode(4)))
-
+    list2 = ListNode(val=1, next=ListNode(3, ListNode(4)))
+    Solution().mergeTwoLists(list1, list2)
     list2 = ListNode(1)
     n5 = ListNode(3)
     n6 = ListNode(4)
