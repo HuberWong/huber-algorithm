@@ -22,7 +22,8 @@ class Solution:
             else:
                 cur.next = list2
                 list2 = list2.next
-        cur = list1 if list1 else list2
+            cur = cur.next
+        cur.next = list1 if list1 is not None else list2
         return dummy.next
 
 
