@@ -1,10 +1,10 @@
 # huber-algorithm
 算法刷题仓库
 
-## 数组
+## 数组(Array)
 
 
-## 链表
+## 链表(Linked List)
 
 简单题
  - [x] LeetCode 21 合并两个有序链表
@@ -23,6 +23,8 @@
 
  - [ ] LeetCode 21 合并两个有序链表
 
-## 滑动窗口
+## 滑动窗口(Sliding Windows)
 
-- [ ] LeetCode 219 存在重复元素II
+- [x] LeetCode 219 存在重复元素II
+
+## 哈希表(Hash Map)
