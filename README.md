@@ -28,3 +28,14 @@
 - [x] LeetCode 219 存在重复元素II
 
 ## 哈希表(Hash Map)
+
+- [x] LeetCode 1 两数之和
+- [x] LeetCode 13 罗马数字转整数
+- [x] LeetCode 169 多数元素
+- [x] LeetCode 202 快乐数
+- [x] LeetCode 205 同构字符串
+- [ ] LeetCode 217 存在重复元素
+
+## 参考书 / 文章
+
+- [LeetCode 初级算法](https://leetcode.cn/leetbook/detail/top-interview-questions-easy/)
